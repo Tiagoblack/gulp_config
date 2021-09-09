@@ -1,0 +1,1 @@
+"use strict";var igual=!0,igualdade=!0;console.log("novo arquivo");var txt="ksdlkammczx,cz,s";
