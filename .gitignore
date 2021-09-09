@@ -1,3 +1,9 @@
 ./node_modules
 ./index.html
 node_modules
+gulp/js/*.js
+gulp/scss/*.scss
+gulp/css/*.css
+
+
+
